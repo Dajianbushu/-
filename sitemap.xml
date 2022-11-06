@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://localhost</loc>
-        <lastmod>2021-08-03
+        <lastmod>2022-11-07
 </lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
@@ -64,7 +64,25 @@
     
     <url>
         <loc>http://localhost/a/yunying/145.html</loc>
-        <lastmod>2021-08-03</lastmod>
+        <lastmod>2022-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/dongcha/142.html</loc>
+        <lastmod>2022-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/dongcha/143.html</loc>
+        <lastmod>2022-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/yunying/144.html</loc>
+        <lastmod>2022-11-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -442,24 +460,6 @@
     </url>
 <url>
         <loc>http://localhost/a/yunying/141.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>http://localhost/a/yunying/142.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>http://localhost/a/yunying/143.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>http://localhost/a/yunying/144.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
