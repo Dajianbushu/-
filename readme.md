@@ -5,13 +5,13 @@
 [https://landai2000.wordpress.com/](https://landai2000.wordpress.com/)
 
 
-[https://landai2200.blogspot.com/](https://landai2200.blogspot.com/)
+[https://www.myslava.tk/](https://www.myslava.tk)
 
 
 
 
 
-更多游戏 网站 app系统搭建部署 参看WIkI页面  [https://github.com/Dajianbushu/dajianbushu.github.io/wiki](https://github.com/Dajianbushu/dajianbushu.github.io/wiki)
+更多游戏 网站 app系统搭建部署 参看WIkI页面  [http://www.landaikeji.tk ](http://www.landaikeji.tk )
 
 期望与您合作成功
 

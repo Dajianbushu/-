@@ -14485,10 +14485,13 @@ width:calc(100% + 30px)
 	-o-transition: all .2s ease-out 0s;
 	transition: all .2s ease-out 0s
 }
-.post-loop-image .item-thumb img {
-	height: 100%;
-	-o-object-fit: cover;
-	object-fit: cover
+	.post-loop-image .item-thumb img {
+		height: 100%;
+		-o-object-fit: cover;
+		object-fit: cover;
+		object-position: top;
+		-o-object-position: top;
+	}
 }
 .post-loop-card .item-video, .post-loop-image .item-video {
 	position: relative;
