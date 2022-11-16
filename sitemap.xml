@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://localhost</loc>
-        <lastmod>2022-11-08
+        <lastmod>2022-11-16
 </lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
@@ -63,26 +63,62 @@
     </url>
     
     <url>
-        <loc>http://localhost/a/dianshang/143.html</loc>
-        <lastmod>2022-11-08</lastmod>
+        <loc>http://localhost/a/dongcha/181.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/tiyan/211.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/tuiguang/246.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/tuiguang/247.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/tuiguang/248.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/tuiguang/245.html</loc>
+        <lastmod>2022-11-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/yingxiao/156.html</loc>
+        <lastmod>2022-11-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 <url>
         <loc>http://localhost/a/zhichang/144.html</loc>
-        <lastmod>2022-11-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>http://localhost/a/dongcha/181.html</loc>
-        <lastmod>2022-11-07</lastmod>
+        <lastmod>2022-11-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 <url>
         <loc>http://localhost/a/dianshang/229.html</loc>
-        <lastmod>2022-11-07</lastmod>
+        <lastmod>2022-11-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>http://localhost/a/dianshang/143.html</loc>
+        <lastmod>2022-11-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -315,12 +351,6 @@
         <priority>0.8</priority>
     </url>
 <url>
-        <loc>http://localhost/a/tiyan/211.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
         <loc>http://localhost/a/zhichang/212.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
@@ -532,12 +562,6 @@
     </url>
 <url>
         <loc>http://localhost/a/yingxiao/155.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>http://localhost/a/yingxiao/156.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
