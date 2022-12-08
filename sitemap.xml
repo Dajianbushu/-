@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.landai2200.tk</loc>
-        <lastmod>2022-12-05
+        <lastmod>2022-12-08
 </lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
@@ -69,6 +69,24 @@
     </url>
     
     <url>
+        <loc>https://www.landai2200.tk/a/tiyan/209.html</loc>
+        <lastmod>2022-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>https://www.landai2200.tk/a/yunying/135.html</loc>
+        <lastmod>2022-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
+        <loc>https://www.landai2200.tk/a/dianshang/227.html</loc>
+        <lastmod>2022-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+<url>
         <loc>https://www.landai2200.tk/a/yingxiao/149.html</loc>
         <lastmod>2022-12-05</lastmod>
         <changefreq>daily</changefreq>
@@ -411,12 +429,6 @@
         <priority>0.8</priority>
     </url>
 <url>
-        <loc>https://www.landai2200.tk/a/yunying/135.html</loc>
-        <lastmod>2021-08-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
         <loc>https://www.landai2200.tk/a/yunying/67.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
@@ -472,12 +484,6 @@
     </url>
 <url>
         <loc>https://www.landai2200.tk/a/tiyan/208.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>https://www.landai2200.tk/a/tiyan/209.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -568,12 +574,6 @@
     </url>
 <url>
         <loc>https://www.landai2200.tk/a/dianshang/226.html</loc>
-        <lastmod>2019-11-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-<url>
-        <loc>https://www.landai2200.tk/a/dianshang/227.html</loc>
         <lastmod>2019-11-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
